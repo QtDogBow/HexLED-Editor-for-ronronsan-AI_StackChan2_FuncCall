@@ -1,0 +1,11 @@
+C:\Users\jmskr\source\repos\HexLED_Designer\HexLED_Designer\bin\Release\HexLED_Designer.exe.config
+C:\Users\jmskr\source\repos\HexLED_Designer\HexLED_Designer\bin\Release\HexLED_Designer.exe
+C:\Users\jmskr\source\repos\HexLED_Designer\HexLED_Designer\bin\Release\HexLED_Designer.pdb
+C:\Users\jmskr\source\repos\HexLED_Designer\HexLED_Designer\obj\Release\HexLED_Designer.csproj.AssemblyReference.cache
+C:\Users\jmskr\source\repos\HexLED_Designer\HexLED_Designer\obj\Release\HexLED_Designer.Form1.resources
+C:\Users\jmskr\source\repos\HexLED_Designer\HexLED_Designer\obj\Release\HexLED_Designer.HexLED.resources
+C:\Users\jmskr\source\repos\HexLED_Designer\HexLED_Designer\obj\Release\HexLED_Designer.Properties.Resources.resources
+C:\Users\jmskr\source\repos\HexLED_Designer\HexLED_Designer\obj\Release\HexLED_Designer.csproj.GenerateResource.cache
+C:\Users\jmskr\source\repos\HexLED_Designer\HexLED_Designer\obj\Release\HexLED_Designer.csproj.CoreCompileInputs.cache
+C:\Users\jmskr\source\repos\HexLED_Designer\HexLED_Designer\obj\Release\HexLED_Designer.exe
+C:\Users\jmskr\source\repos\HexLED_Designer\HexLED_Designer\obj\Release\HexLED_Designer.pdb
